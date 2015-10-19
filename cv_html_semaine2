@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>MomCoding_CV</title>
+    </head>
+    
+    <body>
+        <header>
+            <h1>MomCoding</h1>
+            <p>Maman de 3 enfants, en rattrapage informatique!</p>
+            <p>Quelques années d'expérience en marketing digital par ailleurs...</p>
+        </header>
+
+        <main>
+            <h2>20 ans d'expérience</h2>
+            <ul>
+                <li>Marketing et communication numériques</li>
+                <li>Stratégie et développement</li>
+                <li>Management</li>
+            </ul>
+            
+            <ul>
+                <li>Grands comptes internationaux</li>
+                <li>PME et ETI</li>
+                <li>Start-ups et indépendante</li>
+            </ul>
+            
+            <h3>Secteurs pratiqués</h3>
+            <ul>
+                <li>BtoB, BtoC</li>
+                <li>High-Tech/Telecom, PGC, Services, Retail, Médias</li>
+            </ul>
+            
+            <h3>Formation</h3>
+            <ul>
+                <li>Ecole de commerce</li>
+                <li>Bac C et prépa HEC</li>
+            </ul>
+        </main>
+    
+    </body>
+    
+    <footer>
+        <h4>Coordonnées:</h4>
+        <p>MomCoding <br />
+        <a href="http://www.momislearningtocode.wordpress.com">Blog: MomsLearningToCode</a></p>
+    </footer>
+
+</html>
