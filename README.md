@@ -7,4 +7,6 @@
 
 * Créer une première version de mon CV en HTML: je me dépêche!
 
+* Comprendre comment fonctionne GitHub: c'est pas gagné :(
+
 
